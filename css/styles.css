@@ -33,19 +33,43 @@ body{font-family: "Roboto", sans-serif; color: #434455;
         .menu:hover{color: #404BBF;
            }
 
-            .menu:active{color: #404BBF;
+            .menu:focus{color: #404BBF;
                 }  
 
+                .contakts { font-style: normal;}
 
-                .mail .tel{color: #434455;
-                    font-family: Roboto;
-                    font-size: 16px;
+                .mail{color: #434455;
+                 font-family: Roboto;
+                font-size: 16px;
                     font-style: normal;
                     font-weight: 400;
-                    letter-spacing: 0.32px;}
+                    letter-spacing: 0.02em;
+                    line-height: 1.5;
+                    }
+
+                    .mail:hover{color: #404bbf;}
+.mail:focus{#404bbf;}
+
+ .tel {
+     color: #434455;
+     font-family: Roboto;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     letter-spacing: 0.02em;
+     line-height: 1.5;
+ }
+
+ .tel:hover {
+     color: #404bbf;
+ }
+
+ .tel:focus {
+     color: #404bbf;
+ }
         
                     
-        
+      
 
 
            
