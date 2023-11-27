@@ -173,7 +173,7 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                         font-weight: 700;
                         letter-spacing: 0.54px;
                         text-transform: uppercase;
-                    line-height: 21px;
+                        line-height: 21px;
                     }
 
                         .end{color: #F4F4FD;
@@ -181,7 +181,9 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                             font-size: 16px;
                             font-style: normal;
                             font-weight: 400;
-                            letter-spacing: 0.32px;}
+                            letter-spacing: 0.32px;
+                            line-height: 1.5;
+                        }
 
                             .studio{color: #F4F4FD;
                                 font-family: "Raleway", sans-serif;
