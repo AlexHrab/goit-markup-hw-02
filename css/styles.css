@@ -152,13 +152,7 @@ body{font-family: "Roboto", sans-serif; color: #434455;
              letter-spacing: 0.4px;
              line-height: 1.5;
          }
-         .banking{
-                color: #2E2F42;
-                font-family: Roboto;
-                font-size: 20px;
-                font-style: normal;
-                font-weight: 500;
-                letter-spacing: 0.4px;
+         .proba .sproba>h3{
                 line-height: 1.2;
             }
 
