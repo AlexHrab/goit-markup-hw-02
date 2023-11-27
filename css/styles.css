@@ -100,29 +100,37 @@ body{font-family: "Roboto", sans-serif; color: #434455;
         line-height: 1.5;
         }
 
-            .cont3{background-color: #F4F4FD;}
+            .contthree{background-color: #F4F4FD;}
 
-            .cont3>h2{color:#2E2F42;
+            .team{color:#2E2F42;
                 font-family: Roboto;
                 font-size: 36px;
                 font-style: normal;
                 font-weight: 700;
                 letter-spacing: 0.72px;
-                text-transform: capitalize;}
+                text-transform: capitalize;
+                line-height: 1.11;
+                text-align: center;
+            }
 
-                .cont3>ul>li>h3{color: #2E2F42;
+                .mark{ background-color: #FFFFFF;
+                    color: #2E2F42;
                     font-family: Roboto;
                     font-size: 20px;
                     font-style: normal;
                     font-weight: 500;
-                    letter-spacing: 0.4px;}
+                    letter-spacing: 0.4px;
+                    line-height: 1.2;
+                }
 
-                    .cont3>ul>li>p{color: #434455;
+                    .guerrero{color: #434455;
                         font-family: Roboto;
                         font-size: 16px;
                         font-style: normal;
                         font-weight: 400;
-                        letter-spacing: 0.32px;} 
+                        letter-spacing: 0.32px;
+                        line-height: 1.5;
+                    } 
                         
 .cont4{background-color: #FFF;}
 
