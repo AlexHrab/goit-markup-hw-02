@@ -113,8 +113,8 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                 text-align: center;
             }
 
-                .mark{background-color: #FFFFFF;
-                    color: #2E2F42;
+                .mark{color: #2E2F42;
+                    background-color: #FFFFFF;
                     font-family: Roboto;
                     font-size: 20px;
                     font-style: normal;
