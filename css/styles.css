@@ -167,12 +167,14 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                     .kinec{background-color: #2E2F42;}
 
                     .logotyp{color: #4D5AE5;
-                        font-family: Raleway;
+                        font-family: "Raleway", sans-serif;
                         font-size: 18px;
                         font-style: normal;
                         font-weight: 700;
                         letter-spacing: 0.54px;
-                        text-transform: uppercase;}
+                        text-transform: uppercase;
+                    line-height: 21px;
+                    }
 
                         .end{color: #F4F4FD;
                             font-family: Roboto;
@@ -180,3 +182,12 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                             font-style: normal;
                             font-weight: 400;
                             letter-spacing: 0.32px;}
+
+                            .studio{color: #F4F4FD;
+                                font-family: "Raleway", sans-serif;
+                                font-size: 18px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 21px;
+                                letter-spacing: 0.54px;
+                                text-transform: uppercase;}
