@@ -64,9 +64,17 @@ body{font-family: "Roboto", sans-serif; color: #434455;
     font-weight: 700;
     letter-spacing: 1.12px;}
 
-    .btn{background: #4D5AE5;
+    .btn{color: #ffffff;
+        font-family: Roboto;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
        ;cursor: pointer;
+    letter-spacing: 0.04em;
     }
+
+.btn:focus{background-color: #404BBF;}
+.btn:hover{background-color: #404BBF;}
 
     .cont_{background-color: #FFF;}
 
