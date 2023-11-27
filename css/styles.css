@@ -63,11 +63,11 @@ body{font-family: "Roboto", sans-serif; color: #434455;
     font-style: normal;
     font-weight: 700;
     letter-spacing: 1.12px;
-line-height: 1.07;
-text-align: center;
-}
+    line-height: 1.07;
+        text-align: center;}
 
-    .btn{color: #ffffff;
+    .btn{background-color: #4D5AE5;
+        color: #ffffff;
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -81,21 +81,24 @@ text-align: center;
 
     .cont_{background-color: #FFF;}
 
-        .list>li>h3{
+        .list{
             color: #2E2F42;
             font-family: Roboto;
             font-size: 20px;
             font-style: normal;
             font-weight: 500;
             letter-spacing: 0.4px;
+            line-height: 1.2;
         }
 
-        .list1>li>p{color: #434455;
+        .strategy{color: #434455;
             font-family: Roboto;
             font-size: 16px;
             font-style: normal;
             font-weight: 400;
-            letter-spacing: 0.32px;}
+            letter-spacing: 0.32px;
+        line-height: 1.5;
+        }
 
             .cont3{background-color: #F4F4FD;}
 
