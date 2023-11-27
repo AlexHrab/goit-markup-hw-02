@@ -48,29 +48,16 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                     .mail:focus{color: #404BBF;}
 
  
-          .tel {
-              color: #434455;
-              font-size: 16px;
-              letter-spacing: 0.02em;
-              line-height: 1.5;
-          }
-    
-          .tel:hover {
-              color: #404bbf;
-          }
-    
-          .tel:focus {
-              color: #404BBF;
-          }
+          
                     
       
 
 
            
 
-   .cont1{background-color: #2E2F42;}
+   .cont{background-color: #2E2F42;}
 
-   .head1{color: #FFF;
+   .head{color: #FFF;
     font-family: Roboto;
     font-size: 56px;
     font-style: normal;
@@ -81,9 +68,9 @@ body{font-family: "Roboto", sans-serif; color: #434455;
        ;cursor: pointer;
     }
 
-    .cont2{background-color: #FFF;}
+    .cont_{background-color: #FFF;}
 
-        .list1>li>h3{
+        .list>li>h3{
             color: #2E2F42;
             font-family: Roboto;
             font-size: 20px;
