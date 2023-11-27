@@ -39,16 +39,12 @@ body{font-family: "Roboto", sans-serif; color: #434455;
                 .contakts { font-style: normal;}
 
                 .mail{color: #434455;
-                 font-family: Roboto;
                 font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
                     letter-spacing: 0.02em;
-                    line-height: 1.5;
-                    }
+                    line-height: 1.5;}
 
                     .mail:hover{color: #404bbf;}
-.mail:focus{#404bbf;}
+.mail:focus{color: #404bbf;}
 
  .tel {
      color: #434455;
